@@ -1,0 +1,11 @@
+{
+  "name": "attach log file github action",
+  "version": "1.0.0",
+  "description": "Attach Log File to Github Action",
+  "main": "index.js",
+
+  "dependencies": {
+    "@actions/core": "^1.5.0",
+    "@actions/github": "^5.0.0"
+  }
+}
