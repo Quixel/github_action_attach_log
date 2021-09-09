@@ -1,0 +1,8 @@
+name: 'Attach Log File'
+author: 'Zulfiqar Malik'
+description: 'A GitHub Action that attaches a log file'
+inputs:
+  who-to-greet:
+    description: 'Log file path'
+    default: ""
+    required: true
