@@ -1,5 +1,5 @@
-name: 'Hello World'
-description: 'Greet someone and record the time'
+name: 'Attach a log file'
+description: 'Attach a log file'
 inputs:
   path:  # the path to the log file
     description: 'The path of the log file'
